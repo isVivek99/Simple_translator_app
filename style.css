@@ -50,6 +50,10 @@ body{
     color: gray;
 }
 
+#btn-translate:hover{
+    padding: 0.7rem;
+}
+
 #txt-output{
     border: 0.3rem solid gray;
     border-radius: 1rem;
