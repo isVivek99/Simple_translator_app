@@ -65,3 +65,12 @@ body{
     align-items: center;
     color: var(--ternary-color);
 }
+p{
+    margin: 0;
+}
+
+footer{
+    text-align: center;
+    background-color: var(--primary-color);
+    padding: 1rem;
+}
